@@ -1,3 +1,10 @@
+#  https://www.hackerrank.com/challenges/word-order/problem
+
+# This version is inefficient
+#
+
+
+
 
 # names = ["bcdef", "abcdefg", "bcde", "bcdef"]
 
